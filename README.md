@@ -11,7 +11,7 @@ C++ version of the project: [Github respository](https://github.com/AIMYII/Mega-
 
 __Instructions:__
 
-Dependencies: Python and Tkinter
+Dependencies: Python, Pillow and Tkinter
 
 
 __How to build:__
