@@ -7,7 +7,9 @@ It also finds the colors using an in-game picture of your choice and it gets the
 This software is intended to be used in the Mega man games. But it can be used elsewhere
 
 
-C++ version of the project: [Github respository](https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator/tree/master)
+C++ version of the project: [Github respository](https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator/tree/master) - Public archive
+
+C# version of the project: [Github respository](https://github.com/AIMYII/https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator-CSharp/tree/master)
 
 __Instructions:__
 
