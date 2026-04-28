@@ -20,10 +20,10 @@ __How to build:__
 
 Download the project, using the green Code button.
 
-Extract the zip file after it finishes downloading.
-
 Open the folder in PyCharm, or your preferred IDE. And run the project.
 
+__Releases:__
+Releases will be added once the project is stable or at the end of it's stage.
 
 __How to contribute:__
 
