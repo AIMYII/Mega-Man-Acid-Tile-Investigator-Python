@@ -9,7 +9,7 @@ This software is intended to be used in the Mega man games. But it can be used e
 
 C++ version of the project: [Github respository](https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator/tree/master) - Public archive
 
-C# version of the project: [Github respository](https://github.com/AIMYII/https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator-CSharp/tree/master)
+C# version of the project: [Github respository](https://github.com/AIMYII/Mega-Man-Acid-Tile-Investigator-CSharp)
 
 __Instructions:__
 
